@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-gingabulous",
+  "version": "1.0.0",
+  "description": "A sharable eslint config for Gingabulous projects, or anything else really.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gingabulous/eslint-config-gingabulous.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Joey Hayes <bjoeyhayes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gingabulous/eslint-config-gingabulous/issues"
+  },
+  "homepage": "https://github.com/gingabulous/eslint-config-gingabulous#readme"
+}
