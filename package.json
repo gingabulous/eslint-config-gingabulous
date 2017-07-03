@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/gingabulous/eslint-config-gingabulous/issues"
   },
-  "homepage": "https://github.com/gingabulous/eslint-config-gingabulous#readme"
+  "homepage": "https://github.com/gingabulous/eslint-config-gingabulous#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
 }
